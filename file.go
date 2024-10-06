@@ -110,8 +110,8 @@ func readListsFile(filename string) []string {
 
 }
 
-func cacheExists() bool {
-	_, err := os.Stat(wordlistCache)
+func directoryExists(dirName string) bool {
+	_, err := os.Stat(dirName)
 	if err != nil {
 		if os.IsNotExist(err) {
 			return false

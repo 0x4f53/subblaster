@@ -74,8 +74,12 @@ func main() {
 
 	domains = validateDomains(domains)
 
-	if !cacheExists() {
+	if !directoryExists(wordlistCache) {
 		downloadAndValidateWordlists()
+	}
+
+	if !directoryExists(batchCache) {
+		batcher()
 	}
 
 	batchCount, _ := listFiles(batchCache)

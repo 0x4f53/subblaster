@@ -10,7 +10,7 @@ import (
 
 var batchCache = ".batch_cache/"
 
-var batchSize = 2500
+var batchSize = 10000
 
 func BatchFiles(srcDir, destDir string, filenames []string) error {
 	for _, filename := range filenames {
