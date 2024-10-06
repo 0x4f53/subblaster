@@ -1,0 +1,36 @@
+---
+# Note: This list is quite exhaustive
+# Comment the wordlists you don't want by adding a '#' to the start of the file
+
+# Daniel Miessler's lists forked
+- https://github.com/0x4f53/SecLists/raw/master/Discovery/DNS/bitquark-subdomains-top100000.txt
+- https://github.com/0x4f53/SecLists/raw/master/Discovery/DNS/bug-bounty-program-subdomains-trickest-inventory.txt
+- https://github.com/0x4f53/SecLists/raw/master/Discovery/DNS/combined_subdomains.txt
+- https://github.com/0x4f53/SecLists/raw/master/Discovery/DNS/deepmagic.com-prefixes-top500.txt
+- https://github.com/0x4f53/SecLists/raw/master/Discovery/DNS/deepmagic.com-prefixes-top50000.txt
+- https://github.com/0x4f53/SecLists/raw/master/Discovery/DNS/dns-Jhaddix.txt
+- https://github.com/0x4f53/SecLists/raw/master/Discovery/DNS/fierce-hostlist.txt
+- https://github.com/0x4f53/SecLists/raw/master/Discovery/DNS/italian-subdomains.txt
+- https://github.com/0x4f53/SecLists/raw/master/Discovery/DNS/n0kovo_subdomains.txt
+- https://github.com/0x4f53/SecLists/raw/master/Discovery/DNS/namelist.txt
+- https://github.com/0x4f53/SecLists/raw/master/Discovery/DNS/services-names.txt
+- https://github.com/0x4f53/SecLists/raw/master/Discovery/DNS/shubs-stackoverflow.txt
+- https://github.com/0x4f53/SecLists/raw/master/Discovery/DNS/shubs-subdomains.txt
+- https://github.com/0x4f53/SecLists/raw/master/Discovery/DNS/sortedcombined-knock-dnsrecon-fierce-reconng.txt
+- https://github.com/0x4f53/SecLists/raw/master/Discovery/DNS/subdomains-spanish.txt
+- https://github.com/0x4f53/SecLists/raw/master/Discovery/DNS/subdomains-top1million-110000.txt
+- https://github.com/0x4f53/SecLists/raw/master/Discovery/DNS/subdomains-top1million-20000.txt
+- https://github.com/0x4f53/SecLists/raw/master/Discovery/DNS/subdomains-top1million-5000.txt
+# Assetnote
+- https://wordlists-cdn.assetnote.io/data/automated/httparchive_subdomains_2024_05_28.txt
+- https://wordlists-cdn.assetnote.io/data/automated/httparchive_parameters_top_1m_2024_05_28.txt
+- https://wordlists-cdn.assetnote.io/data/manual/2m-subdomains.txt
+# OneListForAll
+- https://github.com/six2dez/OneListForAll/raw/main/onelistforallshort.txt
+# FuzzDB
+- https://github.com/fuzzdb-project/fuzzdb/raw/master/discovery/dns/alexaTop1mAXFRcommonSubdomains.txt
+- https://github.com/fuzzdb-project/fuzzdb/raw/master/discovery/dns/dnsmapCommonSubdomains.txt
+- https://github.com/fuzzdb-project/fuzzdb/raw/master/discovery/dns/gTLD.txt
+- https://github.com/fuzzdb-project/fuzzdb/raw/master/attack/business-logic/CommonMethodNames.txt
+#subbrute
+- https://github.com/TheRook/subbrute/raw/master/names.txt
