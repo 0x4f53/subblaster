@@ -9,7 +9,7 @@ import (
 	"github.com/0x4f53/textsubs"
 )
 
-var maxWorkers = 100000
+var maxWorkers = 1000000
 
 func logo() {
 	fmt.Println(`

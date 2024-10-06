@@ -21,16 +21,20 @@
 - https://github.com/0x4f53/SecLists/raw/master/Discovery/DNS/subdomains-top1million-110000.txt
 - https://github.com/0x4f53/SecLists/raw/master/Discovery/DNS/subdomains-top1million-20000.txt
 - https://github.com/0x4f53/SecLists/raw/master/Discovery/DNS/subdomains-top1million-5000.txt
+
 # Assetnote
 - https://wordlists-cdn.assetnote.io/data/automated/httparchive_subdomains_2024_05_28.txt
 - https://wordlists-cdn.assetnote.io/data/automated/httparchive_parameters_top_1m_2024_05_28.txt
 - https://wordlists-cdn.assetnote.io/data/manual/2m-subdomains.txt
+
 # OneListForAll
 - https://github.com/six2dez/OneListForAll/raw/main/onelistforallshort.txt
+
 # FuzzDB
 - https://github.com/fuzzdb-project/fuzzdb/raw/master/discovery/dns/alexaTop1mAXFRcommonSubdomains.txt
 - https://github.com/fuzzdb-project/fuzzdb/raw/master/discovery/dns/dnsmapCommonSubdomains.txt
 - https://github.com/fuzzdb-project/fuzzdb/raw/master/discovery/dns/gTLD.txt
 - https://github.com/fuzzdb-project/fuzzdb/raw/master/attack/business-logic/CommonMethodNames.txt
+
 #subbrute
 - https://github.com/TheRook/subbrute/raw/master/names.txt
