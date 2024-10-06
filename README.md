@@ -33,7 +33,10 @@ go build
 
 Examples:
 
-### Generate paired JSON outputs ({"subdomain": "www.example.com", "domain":"example.com"})
+### Generate paired JSON outputs 
+
+This helps generate output in the form of `{"subdomain": "www.example.com", "domain":"example.com"}`, useful for dumping to a 
+DocumentDB
 
 ```bash                S U B B L A S T E R  
         (https://github.com/0x4f53/subblaster)
@@ -66,7 +69,6 @@ Examples:
 [✓] Deleted all cache data
 [↓] Downloading wordlists mentioned in lists.yaml
  - onelistforallshort.txt [2.82MB / 0b] ╢░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟  10.84kB/s
-
  - onelistforallshort.txt [12.19MB / 0b] ╢░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟  4.28kB/s
  - dns-Jhaddix.txt [10.40kB / 0b] ╢░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░╟  0b/s
  - alexaTop1mAXFRcommonSubdomains.txt [378.92kB / 0b] 
